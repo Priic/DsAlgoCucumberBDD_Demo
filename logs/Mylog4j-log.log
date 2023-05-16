@@ -1,0 +1,22 @@
+['INFO ]2023-05-15 13:58:29,090(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (b32420cbde758b42fd3c94e2ec6280be)
+['INFO ]2023-05-15 13:58:29,093(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-15 13:58:29,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-15 18:42:14,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-15 18:42:14,968(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-15 18:42:15,480(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-15 18:42:17,054(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-15 18:44:33,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-15 19:18:35,318(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on EdgeDriver: msedge on WINDOWS (1d427ad311ce86fe83ebc758c422d8a7)
+['INFO ]2023-05-15 19:18:35,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-15 19:18:35,379(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-15 19:18:35,386(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-15 19:18:35,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-15 19:18:37,518(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-15 19:20:57,091(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-15 20:20:57,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (4dbb808c062f7b99c95b159de7ad67a8)
+['INFO ]2023-05-15 20:20:57,720(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-15 20:20:57,770(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-15 20:20:57,778(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-15 20:20:58,232(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-15 20:20:59,835(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-15 20:23:19,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
