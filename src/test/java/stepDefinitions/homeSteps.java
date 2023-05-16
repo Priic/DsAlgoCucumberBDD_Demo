@@ -2,15 +2,15 @@ package stepDefinitions;
 
 import io.cucumber.java.en.*;
 
-import pageObjects.HomePagePOM;
-import pageObjects.startPagePOM;
+import pageObjects.HomePage_PF;
+import pageObjects.startPage_PF;
 import utilities.Helper;
 
 
 public class homeSteps {
 	
-	private startPagePOM sPage =new startPagePOM(Helper.getDriver());
-	private HomePagePOM hPage;
+	private startPage_PF sPage =new startPage_PF(Helper.getDriver());
+	private HomePage_PF hPage;
 	
 	@When("The user clicks on Get Started link on homepage {string} without login")
 	public void the_user_clicks_on_get_started_link_on_homepage_without_login(String option) throws InterruptedException {

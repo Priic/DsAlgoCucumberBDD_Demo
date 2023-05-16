@@ -8,8 +8,8 @@ import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 
 import org.openqa.selenium.WebDriver;
 import io.cucumber.java.en.*;
-import pageObjects.HomePagePOM;
-import pageObjects.registerPagePOM;
+import pageObjects.HomePage_PF;
+import pageObjects.registerPage_PF;
 
 //import utilities.ExcelReader;
 import utilities.excelReader3;
@@ -21,8 +21,8 @@ public class registerSteps {
 
 	public WebDriver driver;
 	private String title ;
-	private HomePagePOM hPage=new HomePagePOM(Helper.getDriver());
-	private registerPagePOM regPage= new registerPagePOM(Helper.getDriver());
+	private HomePage_PF hPage=new HomePage_PF(Helper.getDriver());
+	private registerPage_PF regPage= new registerPage_PF(Helper.getDriver());
 
 	
 	

@@ -1,19 +1,19 @@
 package stepDefinitions;
 
 import io.cucumber.java.en.*;
-import pageObjects.HomePagePOM;
+import pageObjects.HomePage_PF;
 //import pageObjects.linkedListPagePOM;
-import pageObjects.signInPagePOM;
-import pageObjects.treePagePOM;
+import pageObjects.signInPage_PF;
+import pageObjects.treePage_PF;
 import utilities.Helper;
 
 
 public class treeSteps {
 	
-	signInPagePOM signPage= new signInPagePOM(Helper.getDriver());
-	HomePagePOM hPage= new HomePagePOM(Helper.getDriver());
+	signInPage_PF signPage= new signInPage_PF(Helper.getDriver());
+	HomePage_PF hPage= new HomePage_PF(Helper.getDriver());
 	//linkedListPagePOM lListpage=new linkedListPagePOM(Helper.getDriver());
-	treePagePOM treePage=new treePagePOM(Helper.getDriver());
+	treePage_PF treePage=new treePage_PF(Helper.getDriver());
 	String title;
 	
 	@Given("The User is on practice page of Queue")

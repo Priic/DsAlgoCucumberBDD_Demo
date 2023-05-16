@@ -9,11 +9,11 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-public class graphPagePOM {
+public class graphPage_PF {
 	
 	public WebDriver driver;
 
-	public  graphPagePOM(WebDriver driver) {
+	public  graphPage_PF(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}

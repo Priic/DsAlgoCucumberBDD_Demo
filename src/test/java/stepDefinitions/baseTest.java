@@ -3,25 +3,25 @@ package stepDefinitions;
 
 import org.apache.commons.lang3.RandomStringUtils;
 
-import pageObjects.HomePagePOM;
-import pageObjects.linkedListPagePOM;
-import pageObjects.queuePagePOM;
-import pageObjects.registerPagePOM;
-import pageObjects.signInPagePOM;
-import pageObjects.stackPagePOM;
-import pageObjects.startPagePOM;
+import pageObjects.HomePage_PF;
+import pageObjects.linkedListPage_PF;
+import pageObjects.queuePage_PF;
+import pageObjects.registerPage_PF;
+import pageObjects.signInPage_PF;
+import pageObjects.stackPage_PF;
+import pageObjects.startPage_PF;
 
 
 public class baseTest {
 	// Base class to maintain the page object classes
 	//reusable methods that are applicable to all classes
-	public HomePagePOM hPage;
-	public startPagePOM sPage;
-	public registerPagePOM regPage;
-	public signInPagePOM signpage;
-	public linkedListPagePOM lListpage;
-	public stackPagePOM stackPage;
-	public queuePagePOM queuePage;
+	public HomePage_PF hPage;
+	public startPage_PF sPage;
+	public registerPage_PF regPage;
+	public signInPage_PF signpage;
+	public linkedListPage_PF lListpage;
+	public stackPage_PF stackPage;
+	public queuePage_PF queuePage;
 	
 	
 	

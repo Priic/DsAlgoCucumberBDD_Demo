@@ -5,13 +5,13 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class startPagePOM {
+public class startPage_PF {
 
 	public WebDriver driver;
 
 	// driver initialization
 
-	public startPagePOM(WebDriver driver) {
+	public startPage_PF(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
@@ -36,10 +36,10 @@ public class startPagePOM {
 	}
 
 	
-	 public HomePagePOM startPageHomePage() {
+	 public HomePage_PF startPageHomePage() {
 	  
 	  System.out.println("I am on home page"); 
-	  return new HomePagePOM(driver);
+	  return new HomePage_PF(driver);
 	  
 	  }
 	 

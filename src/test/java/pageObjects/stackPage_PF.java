@@ -9,11 +9,11 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class stackPagePOM {
+public class stackPage_PF {
 
 	public WebDriver driver;
 
-	public  stackPagePOM(WebDriver driver) {
+	public  stackPage_PF(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}

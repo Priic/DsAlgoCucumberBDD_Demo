@@ -12,11 +12,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import stepDefinitions.baseTest;
 
-public class registerPagePOM extends baseTest {
+public class registerPage_PF extends baseTest {
 
 	public WebDriver driver;
 
-	public registerPagePOM(WebDriver driver) {
+	public registerPage_PF(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}

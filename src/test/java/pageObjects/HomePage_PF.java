@@ -9,14 +9,14 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class HomePagePOM  {
+public class HomePage_PF  {
 
 	public WebDriver driver;
 	//public static FileReader fileReader; // reading properties file
 	//public static Properties p = new Properties(); // getting properties of file
      
 
-	public HomePagePOM(WebDriver driver) {
+	public HomePage_PF(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
@@ -168,11 +168,11 @@ public class HomePagePOM  {
 	
 	
 	
-	 public registerPagePOM homePageToRegister() {
+	 public registerPage_PF homePageToRegister() {
 	    	
 	//	 driver.get(p.getProperty("HomePageURL"));
 		 System.out.println(driver.getTitle());
-		   return new registerPagePOM(driver); 	
+		   return new registerPage_PF(driver); 	
 		    
 	    }
 }

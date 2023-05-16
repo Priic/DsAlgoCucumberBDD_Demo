@@ -9,11 +9,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import utilities.Helper;
 
-public class signInPagePOM {
+public class signInPage_PF {
 	
 	public  WebDriver driver ;
 
-	public signInPagePOM(WebDriver driver) {
+	public signInPage_PF(WebDriver driver) {
 		
 		this.driver=driver;
 		PageFactory.initElements(driver, this);

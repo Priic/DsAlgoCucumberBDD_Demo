@@ -1,17 +1,17 @@
 package stepDefinitions;
 import io.cucumber.java.en.*;
-import pageObjects.HomePagePOM;
-import pageObjects.queuePagePOM;
-import pageObjects.signInPagePOM;
+import pageObjects.HomePage_PF;
+import pageObjects.queuePage_PF;
+import pageObjects.signInPage_PF;
 //import pageObjects.stackPagePOM;
 import utilities.Helper;
 
 public class queueSteps {
 	
 
-	signInPagePOM signPage= new signInPagePOM(Helper.getDriver());
-	HomePagePOM hPage= new HomePagePOM(Helper.getDriver());
-    queuePagePOM QueuePage=new queuePagePOM(Helper.getDriver());
+	signInPage_PF signPage= new signInPage_PF(Helper.getDriver());
+	HomePage_PF hPage= new HomePage_PF(Helper.getDriver());
+    queuePage_PF QueuePage=new queuePage_PF(Helper.getDriver());
 	String title;
 	
 	@Given("The User is on practice page of Stack")

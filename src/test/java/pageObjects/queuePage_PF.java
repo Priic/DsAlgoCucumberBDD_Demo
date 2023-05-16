@@ -11,11 +11,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import stepDefinitions.baseTest;
 
-public class queuePagePOM extends baseTest{
+public class queuePage_PF extends baseTest{
 	
 	public WebDriver driver;
 
-	public queuePagePOM(WebDriver driver) {
+	public queuePage_PF(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}

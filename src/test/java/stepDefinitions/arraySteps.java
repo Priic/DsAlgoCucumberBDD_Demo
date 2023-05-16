@@ -7,14 +7,14 @@ import java.util.Map;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import io.cucumber.java.en.*;
 import pageObjects.ArrayPage_PF;
-import pageObjects.HomePagePOM;
+import pageObjects.HomePage_PF;
 import utilities.Helper;
 import utilities.excelReader3;
 
 public class arraySteps {
 
 	ArrayPage_PF aPage = new ArrayPage_PF(Helper.getDriver());
-	HomePagePOM hPage = new HomePagePOM(Helper.getDriver());
+	HomePage_PF hPage = new HomePage_PF(Helper.getDriver());
 	String title;
 	
 	

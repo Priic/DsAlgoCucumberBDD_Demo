@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import pageObjects.startPagePOM;
+import pageObjects.startPage_PF;
 import utilities.Helper;
 import utilities.LoggerLoad;
 
@@ -15,14 +15,14 @@ public class startSteps extends baseTest {
 	
 	public WebDriver driver;
 
-	private startPagePOM sPage;
+	private startPage_PF sPage;
 
 	
 	
 	@Given("The User launches the Chrome browser")
 	public void the_user_launches_the_chrome_browser() throws InterruptedException {
 	   
-		sPage = new startPagePOM(Helper.getDriver()); //getting the driver value from helper class and getDriver method(utilities package)
+		sPage = new startPage_PF(Helper.getDriver()); //getting the driver value from helper class and getDriver method(utilities package)
 	//	Thread.sleep(3000);
 		
 		LoggerLoad.info("User launches the Chrome Browser");

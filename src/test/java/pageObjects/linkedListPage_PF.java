@@ -11,11 +11,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import stepDefinitions.baseTest;
 
-public class linkedListPagePOM extends baseTest {
+public class linkedListPage_PF extends baseTest {
 
 	public WebDriver driver;
 
-	public linkedListPagePOM(WebDriver driver) {
+	public linkedListPage_PF(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}

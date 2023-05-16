@@ -9,10 +9,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-public class treePagePOM {
+public class treePage_PF {
 	public WebDriver driver;
 	
-	public  treePagePOM(WebDriver driver) {
+	public  treePage_PF(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}

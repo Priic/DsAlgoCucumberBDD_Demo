@@ -7,14 +7,14 @@ import java.util.Map;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 
 import io.cucumber.java.en.*;
-import pageObjects.signInPagePOM;
+import pageObjects.signInPage_PF;
 //import utilities.ExcelReader;
 import utilities.Helper;
 import utilities.excelReader3;
 
 public class signInSteps {
 	
-	signInPagePOM signPage= new signInPagePOM(Helper.getDriver());
+	signInPage_PF signPage= new signInPage_PF(Helper.getDriver());
 	String title;
 	
 	@Given("User is on Home Page of DS Algo Portal")

@@ -2,13 +2,13 @@ package stepDefinitions;
 
 import io.cucumber.java.en.*;
 import pageObjects.DataStructurePage_PF;
-import pageObjects.HomePagePOM;
+import pageObjects.HomePage_PF;
 import utilities.Helper;
 
 
 public class dataStructuresSteps {
 	
-	private HomePagePOM hPage=new HomePagePOM(Helper.getDriver());
+	private HomePage_PF hPage=new HomePage_PF(Helper.getDriver());
 	//private registerPagePOM regPage= new registerPagePOM(Helper.getDriver());
 	private DataStructurePage_PF dSPage= new DataStructurePage_PF(Helper.getDriver());
 

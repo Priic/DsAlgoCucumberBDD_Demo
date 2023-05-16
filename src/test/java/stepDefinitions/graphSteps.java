@@ -3,17 +3,17 @@ package stepDefinitions;
 //import com.github.dockerjava.api.model.Driver;
 
 import io.cucumber.java.en.*;
-import pageObjects.HomePagePOM;
-import pageObjects.signInPagePOM;
-import pageObjects.graphPagePOM;
+import pageObjects.HomePage_PF;
+import pageObjects.signInPage_PF;
+import pageObjects.graphPage_PF;
 import utilities.Helper;
 
 public class graphSteps {
 	
 	
-	signInPagePOM signPage= new signInPagePOM(Helper.getDriver());
-	HomePagePOM hPage= new HomePagePOM(Helper.getDriver());
-	graphPagePOM graphPage=new graphPagePOM(Helper.getDriver());
+	signInPage_PF signPage= new signInPage_PF(Helper.getDriver());
+	HomePage_PF hPage= new HomePage_PF(Helper.getDriver());
+	graphPage_PF graphPage=new graphPage_PF(Helper.getDriver());
 	String title;
 	
 	@Given("The User is on practice page of Tree")
