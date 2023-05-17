@@ -99,3 +99,361 @@
 ['INFO ]2023-05-15 22:40:05,151(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
 ['INFO ]2023-05-15 22:40:38,527(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
 ['INFO ]2023-05-15 22:42:15,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 16:14:56,750(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (9a7e41f4f1b1d31cee9854d4570fc51c)
+['INFO ]2023-05-16 16:14:56,759(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-16 16:14:56,821(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-16 16:14:56,828(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-16 16:14:57,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-16 16:14:58,775(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-16 16:17:10,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-16 16:17:12,929(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 16:17:12,945(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User will be navigated to LinkedList page title as Linked List 
+['INFO ]2023-05-16 16:17:15,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:17:15,926(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:17:19,363(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:17:19,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:17:21,552(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:17:21,581(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:17:24,105(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:17:24,480(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:17:27,909(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:17:27,949(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:17:30,196(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:17:30,222(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:17:32,837(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:17:33,251(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:17:54,985(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of LinkedList
+['INFO ]2023-05-16 16:19:38,521(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (0bc2e2cb2fa0285bf2566b7e4d3bc885)
+['INFO ]2023-05-16 16:19:38,526(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-16 16:19:38,585(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-16 16:19:38,594(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-16 16:19:39,072(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-16 16:19:40,632(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-16 16:21:50,710(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-16 16:21:53,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 16:21:53,198(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User will be navigated to LinkedList page title as Linked List 
+['INFO ]2023-05-16 16:21:55,875(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:21:56,324(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:21:59,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:21:59,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:22:02,073(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:02,093(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:22:04,639(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:22:04,985(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:22:08,515(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:08,539(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:22:10,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:10,779(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:22:13,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:22:14,042(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:22:17,467(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:17,491(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:22:19,698(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:19,722(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:22:22,249(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:22:22,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:22:26,014(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:26,038(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:22:28,214(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:28,240(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:22:30,736(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:22:31,102(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:22:34,481(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:34,502(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:22:36,709(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:36,731(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:22:39,349(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:22:39,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:22:43,198(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:43,223(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:22:45,436(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:45,477(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:22:48,078(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 16:22:48,556(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 16:22:51,988(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:52,012(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:22:54,231(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:22:54,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:22:54,628(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of LinkedList
+['INFO ]2023-05-16 16:22:54,637(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of LinkedList
+['INFO ]2023-05-16 16:22:54,678(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of LinkedList
+['INFO ]2023-05-16 16:22:57,013(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 16:22:59,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select Stack option from Homepage dropdown menu 
+['INFO ]2023-05-16 16:22:59,755(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 16:23:00,153(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 16:23:03,556(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:23:03,576(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:23:05,771(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:23:05,795(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:23:06,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 16:23:06,526(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 16:23:09,915(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:23:09,937(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:23:12,114(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:23:12,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:23:12,442(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 16:23:12,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 16:23:16,276(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 16:23:16,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 16:23:18,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 16:23:18,570(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 16:23:18,938(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of Stack
+['INFO ]2023-05-16 16:23:18,950(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of Stack
+['INFO ]2023-05-16 16:23:21,354(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 16:23:52,768(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 17:13:33,231(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (5774614df835320f510e4d2afcf7ea69)
+['INFO ]2023-05-16 17:13:33,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-16 17:13:33,290(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-16 17:13:33,303(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-16 17:13:33,813(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-16 17:13:35,351(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-16 17:15:22,928(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-16 17:15:57,929(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of LinkedList
+['INFO ]2023-05-16 17:28:13,215(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (9287687b0809035d692b7bbc0c1599bf)
+['INFO ]2023-05-16 17:28:13,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-16 17:28:13,254(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-16 17:28:13,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-16 17:28:13,726(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-16 17:28:15,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-16 17:30:20,423(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-16 17:30:22,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 17:30:22,846(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User will be navigated to LinkedList page title as Linked List 
+['INFO ]2023-05-16 17:30:25,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 17:30:25,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 17:30:29,013(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:30:29,029(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:30:31,236(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:30:31,251(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:30:33,624(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 17:30:33,950(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 17:30:37,351(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:30:37,366(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:30:39,584(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:30:39,604(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:30:42,117(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 17:30:42,468(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 17:30:45,864(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:30:45,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:30:48,070(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:30:48,086(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:30:50,517(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 17:30:50,875(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 17:30:54,279(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:30:54,297(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:30:56,485(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:30:56,506(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:30:58,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 17:30:59,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 17:31:02,682(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:02,698(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:31:04,903(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:04,922(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:31:07,379(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 17:31:07,728(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 17:31:11,116(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:11,132(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:31:13,300(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:13,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:31:15,856(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 17:31:16,199(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 17:31:19,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:19,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:31:21,798(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:21,814(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:31:22,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of LinkedList
+['INFO ]2023-05-16 17:31:22,203(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of LinkedList
+['INFO ]2023-05-16 17:31:22,236(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of LinkedList
+['INFO ]2023-05-16 17:31:24,621(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 17:31:26,901(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select Stack option from Homepage dropdown menu 
+['INFO ]2023-05-16 17:31:27,227(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 17:31:27,496(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 17:31:30,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:30,911(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:31:33,097(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:33,115(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:31:33,394(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 17:31:33,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 17:31:37,066(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:37,087(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:31:39,283(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:39,299(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:31:39,608(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 17:31:39,934(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 17:31:43,315(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:43,337(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 17:31:45,540(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 17:31:45,564(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 17:31:45,852(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of Stack
+['INFO ]2023-05-16 17:31:45,861(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of Stack
+['INFO ]2023-05-16 17:31:48,254(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 17:32:18,437(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 17:33:50,466(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 21:59:22,008(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (1d26c0357638e801bdeeb96240cf877d)
+['INFO ]2023-05-16 21:59:22,010(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-16 21:59:22,044(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-16 21:59:22,049(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-16 21:59:22,509(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-16 21:59:24,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-16 22:01:29,092(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-16 22:01:31,498(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:01:31,501(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User will be navigated to LinkedList page title as Linked List 
+['INFO ]2023-05-16 22:01:33,989(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:01:34,308(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:01:37,692(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:01:37,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:01:39,913(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:01:39,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:01:42,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:01:42,759(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:01:46,160(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:01:46,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:01:48,366(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:01:48,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:01:50,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:01:51,240(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:01:54,626(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:01:54,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:01:56,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:01:56,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:01:59,282(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:01:59,608(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:02:03,006(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:03,022(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:02:05,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:05,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:02:07,643(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:02:07,999(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:02:11,378(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:11,394(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:02:13,586(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:13,604(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:02:16,096(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:02:16,421(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:02:19,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:19,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:02:21,988(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:22,011(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:02:24,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:02:24,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:02:28,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:28,244(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:02:30,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:30,453(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:02:30,748(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of LinkedList
+['INFO ]2023-05-16 22:02:30,753(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of LinkedList
+['INFO ]2023-05-16 22:02:30,784(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of LinkedList
+['INFO ]2023-05-16 22:02:33,283(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:02:35,586(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select Stack option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:02:35,976(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 22:02:36,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 22:02:39,606(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:39,622(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:02:41,809(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:41,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:02:42,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 22:02:43,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 22:02:46,679(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:46,696(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:02:48,874(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:48,898(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:02:49,291(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 22:02:49,768(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 22:02:53,158(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:53,174(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:02:55,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:02:55,377(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:02:55,641(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of Stack
+['INFO ]2023-05-16 22:02:55,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of Stack
+['INFO ]2023-05-16 22:02:58,037(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:03:28,097(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:04:56,069(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:15:02,088(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (391f4fcbebff11c2ff856b982a8d60b1)
+['INFO ]2023-05-16 22:15:02,088(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-16 22:15:02,134(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-16 22:15:02,139(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-16 22:15:02,590(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-16 22:15:04,040(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-16 22:17:09,686(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-16 22:17:12,150(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:17:12,153(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User will be navigated to LinkedList page title as Linked List 
+['INFO ]2023-05-16 22:17:14,625(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:17:14,934(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:26:48,589(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (253e809d7b735227eebdc0b29a0acb5a)
+['INFO ]2023-05-16 22:26:48,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-16 22:26:48,624(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-16 22:26:48,629(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-16 22:26:49,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-16 22:26:50,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['INFO ]2023-05-16 22:28:56,339(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-16 22:28:58,763(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:28:58,771(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User will be navigated to LinkedList page title as Linked List 
+['INFO ]2023-05-16 22:29:01,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:29:01,577(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:29:04,976(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:04,998(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:29:07,212(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:07,235(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:29:09,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:29:09,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:29:13,358(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:13,380(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:29:15,589(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:15,614(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:29:18,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:29:18,494(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:29:21,875(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:21,896(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:29:24,103(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:24,119(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:29:26,590(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:29:26,943(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:29:30,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:30,365(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:29:32,561(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:32,577(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:29:35,050(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:29:35,363(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:29:38,757(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:38,783(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:29:40,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:40,996(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:29:43,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:29:43,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:29:47,196(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:47,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:29:49,376(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:49,397(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:29:51,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-16 22:29:52,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-16 22:29:55,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:55,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:29:57,793(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:29:57,809(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:29:58,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of LinkedList
+['INFO ]2023-05-16 22:29:58,180(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of LinkedList
+['INFO ]2023-05-16 22:29:58,216(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of LinkedList
+['INFO ]2023-05-16 22:30:00,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:30:02,829(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select Stack option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:30:03,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 22:30:03,446(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 22:30:06,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:30:06,842(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:30:09,036(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:30:09,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:30:09,373(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 22:30:09,669(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 22:30:13,042(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:30:13,062(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:30:15,274(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:30:15,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:30:15,584(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-16 22:30:15,877(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-16 22:30:19,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-16 22:30:19,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-16 22:30:21,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-16 22:30:21,513(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-16 22:30:21,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of Stack
+['INFO ]2023-05-16 22:30:21,828(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of Stack
+['INFO ]2023-05-16 22:30:24,215(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:30:54,214(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-16 22:32:22,016(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
