@@ -14,12 +14,13 @@ import pageObjects.registerPage_PF;
 //import utilities.ExcelReader;
 import utilities.excelReader3;
 import utilities.Helper;
+import utilities.LoggerLoad;
 //import utilities.takeScreenshots;
 
 
 public class registerSteps {
 
-	public WebDriver driver;
+	public WebDriver driver;	
 	private String title ;
 	private HomePage_PF hPage=new HomePage_PF(Helper.getDriver());
 	private registerPage_PF regPage= new registerPage_PF(Helper.getDriver());
@@ -30,6 +31,7 @@ public class registerSteps {
 	public void the_user_clicks_the_register_button_on_home_page() throws InterruptedException {
 		
 		hPage.homeRegisterLinkClick();
+		LoggerLoad.info("The user clicks the Register button on Home page");
 	    
 	}
 
@@ -38,6 +40,7 @@ public class registerSteps {
 		
 		Helper.getTitle();
 		System.out.println(Helper.getTitle());
+		LoggerLoad.info("The User will be navigated to Register Page with title as Registration");
 	    
 	}
 	
@@ -46,6 +49,7 @@ public class registerSteps {
 	  
 		Helper.gotoRegisterPage();
 	 //  regPage= hPage.homePageToRegister();
+		LoggerLoad.info("User is on Register page of dsAlgo Portal");
 	}
 	
 	@When("The user clicks the Register button on register page with all fields value empty")
@@ -54,6 +58,7 @@ public class registerSteps {
 		//Thread.sleep(3000);
 		regPage.regPageEmptyUserDetails();
 		regPage.callTakescreenShots("AllEmptyfield.png");
+		LoggerLoad.info("The user clicks the Register button on register page with all fields value empty");
 	}
 
 	@Then("Error message is displayed {string}")
@@ -61,6 +66,7 @@ public class registerSteps {
 
 		regPage.callTakescreenShots("Emptyfield.png");
 		System.out.println(experrmsg);
+		LoggerLoad.error("Error message is displayed as Please fill out this field");
 	}
 
 	@When("The user clicks the Register button on register page with valid Username and Password fields value empty")
@@ -69,6 +75,7 @@ public class registerSteps {
 		
 		regPage.regPagePasswordBlank();
 		regPage.callTakescreenShots("PasswordEmpty.png");
+		LoggerLoad.info("The user clicks the Register button on register page with valid Username and Password fields value empty");
 	}
 	
 	
@@ -78,6 +85,7 @@ public class registerSteps {
 	   
 		regPage.regPageCnfPasswordBlank(pswrd);
 		regPage.callTakescreenShots("ConfirmPaswrdEmpty.png");
+		LoggerLoad.info("The user clicks the Register link on register page with Password and confirmPassword fields value empty");
 	   
 	}
 
@@ -96,12 +104,14 @@ public class registerSteps {
 		String expMsg = testdata.get(rowNumber).get("expectedMessage");
 		
 		regPage.registerRecDataFromExcel(username, password, Confpassword, expMsg);
+		LoggerLoad.info("User enter Invalid signUp details on register page from Excel Sheet");
 	}
 
 	
 	@When("The user clicks Register button")
 	public void the_user_clicks_register_button() throws InterruptedException {
 	    regPage.clickRegBtnOnRegisterPage();
+	    LoggerLoad.info("The user clicks Register button");
 	}
 
 
@@ -110,6 +120,7 @@ public class registerSteps {
 		System.out.println("registration failed");
 		System.out.println(regPage.Message());
 		regPage.callTakescreenShots("InvalidRegistration");
+		LoggerLoad.error("Registration failed and error message is displayed");
 	}
 
 	
@@ -118,6 +129,7 @@ public class registerSteps {
 	   
 	   
 	   regPage.RegisterValidData(passwrd, cnfrmPasswrd);
+	   LoggerLoad.info("User enter Valid signUp details on register page ");
 	}
 
 	@Then("User will be navigated to Home page of DS Algo")
@@ -126,6 +138,7 @@ public class registerSteps {
 		//regPage.callTakescreenShots();
 		title=regPage.gotoHomePage();
 		Helper.EqualAssert(title, "NumpyNinja");
+		LoggerLoad.info("User will be navigated to Home page of DS Algo");
 	}
 
 	@Then("successMessage will be displayed {string}")
@@ -134,8 +147,8 @@ public class registerSteps {
 		String Message = regPage.Message();
 		System.out.println(Message);
 		System.out.println(expMsg);
-		Thread.sleep(2000);
-
+		Thread.sleep(1000);
+		LoggerLoad.info("Logged out successfully will be displayed");
 	}
 	
 	

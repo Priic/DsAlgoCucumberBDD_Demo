@@ -5,6 +5,7 @@ import io.cucumber.java.en.*;
 import pageObjects.HomePage_PF;
 import pageObjects.startPage_PF;
 import utilities.Helper;
+import utilities.LoggerLoad;
 
 
 public class homeSteps {
@@ -18,6 +19,7 @@ public class homeSteps {
 		Helper.homePage();
 		hPage=sPage.startPageHomePage();
 		hPage.homeGetStartedClick(option);
+		LoggerLoad.warn("User clicks Getstarted link on homepage without login");
 	//	Thread.sleep(3000);
 	}
 
@@ -26,6 +28,7 @@ public class homeSteps {
 	   
 	String message	=hPage.WarningMsg();
 	System.out.println("Warning msg:  "+message);
+	LoggerLoad.warn("User gets warning message for clicking getstarted link without login");
 	}
 
 	@When("The user select options from dropbox menu on homepage {string} without login")
@@ -33,6 +36,8 @@ public class homeSteps {
 	    
 		hPage.homeClickDrpdown(option);
 	//	Thread.sleep(3000);
+		
+		LoggerLoad.error("User selects dropdown menu without login");
 	}
 
 	

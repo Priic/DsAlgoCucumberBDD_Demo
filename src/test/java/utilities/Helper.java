@@ -143,9 +143,10 @@ public class Helper {
 	
 
 	public static void tearDown() {
-	//	if (driver != null) {
+		//if (driver != null) {
 			driver.close();
 			driver.quit();
-		}
+	//	}
+	}
 	
 }
