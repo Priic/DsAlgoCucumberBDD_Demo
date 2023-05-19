@@ -4949,3 +4949,362 @@
 ['INFO ]2023-05-18 19:08:23,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected to a Practice Questions Page of selected Graph Topic Page
 ['INFO ]2023-05-18 19:08:34,977(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Queue
 ['INFO ]2023-05-18 19:09:10,844(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Tree
+['INFO ]2023-05-18 19:56:05,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Test is running on ChromeDriver: chrome on WINDOWS (21257421e63c8f5c34a94fd1a3a54904)
+['INFO ]2023-05-18 19:56:05,174(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Driver is Initialized
+['INFO ]2023-05-18 19:56:05,230(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User launches the Chrome Browser
+['INFO ]2023-05-18 19:56:05,240(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user opens DS Algo portal link
+['INFO ]2023-05-18 19:56:07,205(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Get Started button
+['INFO ]2023-05-18 19:56:09,964(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be redirected to homepage with page title as NumpyNinja
+['WARN ]2023-05-18 19:56:11,472(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Getstarted link on homepage without login
+['WARN ]2023-05-18 19:56:11,554(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User gets warning message for clicking getstarted link without login
+['ERROR]2023-05-18 19:56:13,731(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User selects dropdown menu without login
+['WARN ]2023-05-18 19:56:13,781(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User gets warning message for clicking getstarted link without login
+['INFO ]2023-05-18 19:56:15,132(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Home Page of DS Algo Portal
+['INFO ]2023-05-18 19:56:16,014(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Register button on Home page
+['INFO ]2023-05-18 19:56:16,068(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User will be navigated to Register Page with title as Registration
+['INFO ]2023-05-18 19:56:17,211(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Register button on register page with all fields value empty
+['ERROR]2023-05-18 19:56:17,528(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error message is displayed as Please fill out this field
+['INFO ]2023-05-18 19:56:18,599(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Register button on register page with valid Username and Password fields value empty
+['ERROR]2023-05-18 19:56:18,916(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error message is displayed as Please fill out this field
+['INFO ]2023-05-18 19:56:20,068(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks the Register link on register page with Password and confirmPassword fields value empty
+['ERROR]2023-05-18 19:56:20,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error message is displayed as Please fill out this field
+['INFO ]2023-05-18 19:56:22,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter Invalid signUp details on register page from Excel Sheet
+['INFO ]2023-05-18 19:56:23,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks Register button
+['ERROR]2023-05-18 19:56:23,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration failed and error message is displayed
+['INFO ]2023-05-18 19:56:24,857(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter Invalid signUp details on register page from Excel Sheet
+['INFO ]2023-05-18 19:56:25,696(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks Register button
+['ERROR]2023-05-18 19:56:26,009(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration failed and error message is displayed
+['INFO ]2023-05-18 19:56:27,167(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter Invalid signUp details on register page from Excel Sheet
+['INFO ]2023-05-18 19:56:28,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks Register button
+['ERROR]2023-05-18 19:56:28,373(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration failed and error message is displayed
+['INFO ]2023-05-18 19:56:29,460(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter Invalid signUp details on register page from Excel Sheet
+['INFO ]2023-05-18 19:56:30,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks Register button
+['ERROR]2023-05-18 19:56:31,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration failed and error message is displayed
+['INFO ]2023-05-18 19:56:31,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter Valid signUp details on register page 
+['INFO ]2023-05-18 19:56:33,051(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks Register button
+['INFO ]2023-05-18 19:56:33,094(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User will be navigated to Home page of DS Algo
+['INFO ]2023-05-18 19:56:34,152(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Logged out successfully will be displayed
+['INFO ]2023-05-18 19:56:35,192(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on signOut link on Home page
+['INFO ]2023-05-18 19:56:36,222(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed as 'Logged out successfully'
+['INFO ]2023-05-18 19:56:37,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Home Page of DS Algo Portal
+['INFO ]2023-05-18 19:56:39,022(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on signIn link on Home page
+['INFO ]2023-05-18 19:56:39,268(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Login Page title as 'Login'
+['INFO ]2023-05-18 19:56:41,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User entered login details from Excelsheet
+['ERROR]2023-05-18 19:56:42,472(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error message is displayed with InvalidUserDetails
+['INFO ]2023-05-18 19:56:43,682(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Home Page of DS Algo Portal
+['INFO ]2023-05-18 19:56:44,986(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on signIn link on Home page
+['INFO ]2023-05-18 19:56:45,219(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Login Page title as 'Login'
+['INFO ]2023-05-18 19:56:47,455(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User entered login details from Excelsheet
+['ERROR]2023-05-18 19:56:48,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Error message is displayed with InvalidUserDetails
+['INFO ]2023-05-18 19:56:49,915(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Entered Username and Password with valid details
+['INFO ]2023-05-18 19:56:50,991(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Success Message is displayed with valid Details
+['INFO ]2023-05-18 19:56:52,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Home page of DsAlgo Portal
+['INFO ]2023-05-18 19:56:52,380(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on signOut link on Home page
+['INFO ]2023-05-18 19:56:53,422(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed as 'Logged out successfully'
+['INFO ]2023-05-18 19:56:54,809(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Home Page of DS Algo Portal
+['INFO ]2023-05-18 19:56:56,087(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on signIn link on Home page
+['INFO ]2023-05-18 19:56:57,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Entered Username and Password with valid details
+['INFO ]2023-05-18 19:56:58,214(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Home page of DsAlgo Portal
+['INFO ]2023-05-18 19:56:59,269(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks on DataStructure GetStarted button 
+['INFO ]2023-05-18 19:56:59,284(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User will be navigated to Data Structures-Introduction page
+['INFO ]2023-05-18 19:56:59,748(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Time Complexity link
+['INFO ]2023-05-18 19:56:59,766(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User will be navigated to time-complexity page
+['INFO ]2023-05-18 19:57:00,759(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the datastructure page
+['INFO ]2023-05-18 19:57:00,781(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:57:02,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Python code in tryEditor from DataStructures topic and click Run button
+['INFO ]2023-05-18 19:57:02,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with the Run output for valid Python code and Message for DataStructure Page
+['INFO ]2023-05-18 19:57:05,101(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Python code in tryEditor from DataStructures topic and click Run button
+['INFO ]2023-05-18 19:57:05,146(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with the Run output for valid Python code and Message for DataStructure Page
+['INFO ]2023-05-18 19:57:05,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to dataStructure page of selected topic
+['INFO ]2023-05-18 19:57:05,641(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Practice Questions Page on DataStructure Page
+['INFO ]2023-05-18 19:57:05,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected to a Practice Questions Page of selected DataStructure Topic Page
+['INFO ]2023-05-18 19:57:05,767(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of data Structure
+['INFO ]2023-05-18 19:57:07,894(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user select Array option from dropbox menu
+['INFO ]2023-05-18 19:57:07,911(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is navigate to Array Page
+['INFO ]2023-05-18 19:57:08,651(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user click on topiclist link on Array page
+['INFO ]2023-05-18 19:57:09,135(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks on Try Here button of selected topic
+['INFO ]2023-05-18 19:57:10,715(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be presented with the Run output for valid Python code and massege for Array Page
+['ERROR]2023-05-18 19:57:12,155(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor from topiclist in Array and click Run button
+['WARN ]2023-05-18 19:57:12,194(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Array Page
+['INFO ]2023-05-18 19:57:12,300(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Array topic list
+['INFO ]2023-05-18 19:57:12,740(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user click on topiclist link on Array page
+['INFO ]2023-05-18 19:57:13,235(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks on Try Here button of selected topic
+['INFO ]2023-05-18 19:57:14,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be presented with the Run output for valid Python code and massege for Array Page
+['ERROR]2023-05-18 19:57:16,263(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor from topiclist in Array and click Run button
+['WARN ]2023-05-18 19:57:16,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Array Page
+['INFO ]2023-05-18 19:57:16,435(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Array topic list
+['INFO ]2023-05-18 19:57:16,872(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user click on topiclist link on Array page
+['INFO ]2023-05-18 19:57:17,251(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks on Try Here button of selected topic
+['INFO ]2023-05-18 19:57:18,785(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be presented with the Run output for valid Python code and massege for Array Page
+['ERROR]2023-05-18 19:57:20,303(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor from topiclist in Array and click Run button
+['WARN ]2023-05-18 19:57:20,340(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Array Page
+['INFO ]2023-05-18 19:57:20,451(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Array topic list
+['INFO ]2023-05-18 19:57:20,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user click on topiclist link on Array page
+['INFO ]2023-05-18 19:57:21,373(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user clicks on Try Here button of selected topic
+['INFO ]2023-05-18 19:57:22,967(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be presented with the Run output for valid Python code and massege for Array Page
+['ERROR]2023-05-18 19:57:24,429(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor from topiclist in Array and click Run button
+['WARN ]2023-05-18 19:57:24,462(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Array Page
+['INFO ]2023-05-18 19:57:24,566(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Array topic list
+['INFO ]2023-05-18 19:57:25,419(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user click on practice Question
+['INFO ]2023-05-18 19:57:28,152(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User entered valid Python code in tryEditor by using excel sheet click Run button
+['INFO ]2023-05-18 19:57:28,184(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be presented with the Run output for valid Python code and massege for Array Page
+['INFO ]2023-05-18 19:57:28,294(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Array topic list
+['INFO ]2023-05-18 19:57:28,852(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user click on practice Question
+['INFO ]2023-05-18 19:57:31,600(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User entered valid Python code in tryEditor by using excel sheet click Run button
+['INFO ]2023-05-18 19:57:31,639(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be presented with the Run output for valid Python code and massege for Array Page
+['INFO ]2023-05-18 19:57:31,785(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Array topic list
+['INFO ]2023-05-18 19:57:32,340(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user click on practice Question
+['INFO ]2023-05-18 19:57:35,158(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User entered valid Python code in tryEditor by using excel sheet click Run button
+['INFO ]2023-05-18 19:57:35,200(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be presented with the Run output for valid Python code and massege for Array Page
+['INFO ]2023-05-18 19:57:35,309(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Array topic list
+['INFO ]2023-05-18 19:57:35,808(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user click on practice Question
+['INFO ]2023-05-18 19:57:38,647(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User entered valid Python code in tryEditor by using excel sheet click Run button
+['INFO ]2023-05-18 19:57:38,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user should be presented with the Run output for valid Python code and massege for Array Page
+['INFO ]2023-05-18 19:57:38,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Array topic list
+['INFO ]2023-05-18 19:57:38,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Array title as  Practice Questions 
+['INFO ]2023-05-18 19:57:41,075(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-18 19:57:41,094(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User will be navigated to LinkedList page title as Linked List 
+['INFO ]2023-05-18 19:57:41,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-18 19:57:42,284(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-18 19:57:42,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:57:43,959(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:43,996(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:57:44,332(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:44,377(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:57:45,139(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-18 19:57:45,606(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-18 19:57:45,617(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:57:47,190(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:47,231(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:57:47,528(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:47,574(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:57:48,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-18 19:57:48,817(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-18 19:57:48,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:57:50,472(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:50,516(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:57:50,868(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:50,917(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:57:51,623(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-18 19:57:52,100(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-18 19:57:52,111(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:57:53,724(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:53,759(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:57:54,043(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:54,094(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:57:54,973(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-18 19:57:55,506(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-18 19:57:55,528(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:57:57,165(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:57,205(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:57:57,491(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:57:57,533(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:57:58,193(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-18 19:57:58,675(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-18 19:57:58,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:00,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:00,341(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:58:00,597(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:00,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:58:01,310(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Link List page 
+['INFO ]2023-05-18 19:58:01,882(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Linked list page
+['INFO ]2023-05-18 19:58:01,893(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:03,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:03,544(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:58:03,811(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:03,854(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:58:04,538(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of LinkedList
+['INFO ]2023-05-18 19:58:04,568(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of LinkedList
+['INFO ]2023-05-18 19:58:04,666(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of LinkedList
+['INFO ]2023-05-18 19:58:06,837(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-18 19:58:08,930(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select Stack option from Homepage dropdown menu 
+['INFO ]2023-05-18 19:58:09,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-18 19:58:09,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-18 19:58:09,897(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:11,380(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:11,420(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:58:12,243(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:12,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:58:12,779(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-18 19:58:13,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-18 19:58:13,331(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:14,837(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:14,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:58:15,676(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:15,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:58:16,203(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select topics covered on Stack page 
+['INFO ]2023-05-18 19:58:16,672(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button for selected topic on Stack page
+['INFO ]2023-05-18 19:58:16,684(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:18,199(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:18,232(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Run Message will be displayed for valid python code 
+['INFO ]2023-05-18 19:58:19,022(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor 
+['INFO ]2023-05-18 19:58:19,055(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Alert msg will be displayed and Run output will be empty
+['INFO ]2023-05-18 19:58:19,771(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Practice Questions Page of Stack
+['INFO ]2023-05-18 19:58:19,796(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is navigated to Practice Questions Page of Stack
+['INFO ]2023-05-18 19:58:19,864(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Stack
+['INFO ]2023-05-18 19:58:21,976(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-18 19:58:23,971(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User will be navigated to Queue page
+['INFO ]2023-05-18 19:58:24,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user_click_to_select_topics_covered_on_queue_page
+['INFO ]2023-05-18 19:58:24,900(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Queue of selected topic page
+['INFO ]2023-05-18 19:58:24,913(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:27,433(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Queue topic and click Run button
+['INFO ]2023-05-18 19:58:27,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with the Run output for valid Python code and Message for for Queue Page
+['ERROR]2023-05-18 19:58:27,745(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Queue topic and click Run button
+['WARN ]2023-05-18 19:58:27,783(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Queue Page
+['INFO ]2023-05-18 19:58:27,872(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Queue page of selected topic
+['INFO ]2023-05-18 19:58:28,199(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user_click_to_select_topics_covered_on_queue_page
+['INFO ]2023-05-18 19:58:28,692(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Queue of selected topic page
+['INFO ]2023-05-18 19:58:28,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:31,240(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Queue topic and click Run button
+['INFO ]2023-05-18 19:58:31,279(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with the Run output for valid Python code and Message for for Queue Page
+['ERROR]2023-05-18 19:58:31,655(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Queue topic and click Run button
+['WARN ]2023-05-18 19:58:31,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Queue Page
+['INFO ]2023-05-18 19:58:31,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Queue page of selected topic
+['INFO ]2023-05-18 19:58:32,368(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user_click_to_select_topics_covered_on_queue_page
+['INFO ]2023-05-18 19:58:32,852(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Queue of selected topic page
+['INFO ]2023-05-18 19:58:32,865(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:35,374(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Queue topic and click Run button
+['INFO ]2023-05-18 19:58:35,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with the Run output for valid Python code and Message for for Queue Page
+['ERROR]2023-05-18 19:58:35,750(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Queue topic and click Run button
+['WARN ]2023-05-18 19:58:35,795(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Queue Page
+['INFO ]2023-05-18 19:58:35,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Queue page of selected topic
+['INFO ]2023-05-18 19:58:36,414(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user_click_to_select_topics_covered_on_queue_page
+['INFO ]2023-05-18 19:58:36,896(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Queue of selected topic page
+['INFO ]2023-05-18 19:58:36,913(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:39,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Queue topic and click Run button
+['INFO ]2023-05-18 19:58:39,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with the Run output for valid Python code and Message for for Queue Page
+['ERROR]2023-05-18 19:58:39,728(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Queue topic and click Run button
+['WARN ]2023-05-18 19:58:39,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Queue Page
+['INFO ]2023-05-18 19:58:39,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Queue page of selected topic
+['INFO ]2023-05-18 19:58:40,247(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Practice Questions Page on Queue Page
+['INFO ]2023-05-18 19:58:40,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected to a Practice Questions Page of selected Queue Topic Page
+['INFO ]2023-05-18 19:58:40,313(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Queue
+['INFO ]2023-05-18 19:58:42,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-18 19:58:44,496(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User will be navigated to Tree page title as Tree
+['INFO ]2023-05-18 19:58:45,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:58:45,697(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:58:45,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:48,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:58:48,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:58:49,531(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:58:49,563(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:58:49,659(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:58:50,192(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:58:50,617(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:58:50,627(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:53,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:58:53,121(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:58:54,373(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:58:54,413(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:58:54,551(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:58:55,003(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:58:55,489(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:58:55,501(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:58:57,986(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:58:58,024(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:58:59,342(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:58:59,381(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:58:59,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:00,211(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:00,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:00,740(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:03,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:03,250(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:04,508(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:04,546(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:04,677(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:05,313(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:05,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:05,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:08,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:08,407(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:09,716(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:09,755(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:09,872(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:10,549(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:11,104(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:11,128(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:13,608(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:13,651(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:14,934(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:14,975(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:15,092(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:15,446(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:15,974(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:15,992(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:18,552(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:18,585(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:19,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:19,899(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:20,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:20,533(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:21,040(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:21,060(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:23,592(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:23,623(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:24,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:24,966(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:25,080(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:25,479(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:25,996(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:26,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:28,510(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:28,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:29,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:29,917(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:30,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:30,486(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:30,952(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:30,967(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:33,471(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:33,504(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:34,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:34,857(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:34,973(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:35,376(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:35,853(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:35,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:38,397(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:38,428(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:39,785(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:39,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:39,954(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:40,634(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:41,122(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:41,134(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:43,688(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:43,717(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:45,024(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:45,069(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:45,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:46,089(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks select topics covered on Tree page
+['INFO ]2023-05-18 19:59:46,505(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the Tree of selected topic page
+['INFO ]2023-05-18 19:59:46,516(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:48,982(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Tree topic and click Run button
+['INFO ]2023-05-18 19:59:49,013(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Message will be displayed for valid Python code on run Output with Valid Python code
+['ERROR]2023-05-18 19:59:50,331(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor for Tree topic and click Run button
+['WARN ]2023-05-18 19:59:50,368(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Tree Page
+['INFO ]2023-05-18 19:59:50,505(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Tree page of selected topic
+['INFO ]2023-05-18 19:59:50,866(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Practice Questions Page on Tree Page
+['INFO ]2023-05-18 19:59:50,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected to a Practice Questions Page of selected Tree Topic Page
+['INFO ]2023-05-18 19:59:50,942(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The User is on practice page of Tree
+['INFO ]2023-05-18 19:59:52,909(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- User select LinkedList option from Homepage dropdown menu 
+['INFO ]2023-05-18 19:59:54,903(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User will be navigated to Graph page
+['INFO ]2023-05-18 19:59:55,486(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User click on selected topics covered on Graph page
+['INFO ]2023-05-18 19:59:55,961(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the  Graph of selected topic page
+['INFO ]2023-05-18 19:59:55,976(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 19:59:59,456(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Graph topic and click Run button
+['INFO ]2023-05-18 19:59:59,491(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with the Run output for valid Python code and Message for for Graph Page
+['ERROR]2023-05-18 20:00:00,798(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor from  {string} for Graph topic and click Run button
+['WARN ]2023-05-18 20:00:00,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Graph Page
+['INFO ]2023-05-18 20:00:02,007(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Graph page of selected topic
+['INFO ]2023-05-18 20:00:02,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User click on selected topics covered on Graph page
+['INFO ]2023-05-18 20:00:02,781(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Try Here button in the  Graph of selected topic page
+['INFO ]2023-05-18 20:00:02,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected tryEditor page title as {string} with a Run button to test Python code
+['INFO ]2023-05-18 20:00:06,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter valid Python code in tryEditor for Graph topic and click Run button
+['INFO ]2023-05-18 20:00:06,366(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with the Run output for valid Python code and Message for for Graph Page
+['ERROR]2023-05-18 20:00:07,677(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter Invalid Python code in tryEditor from  {string} for Graph topic and click Run button
+['WARN ]2023-05-18 20:00:07,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be presented with alert and no runOutput for Invalid Python code for Graph Page
+['INFO ]2023-05-18 20:00:08,888(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigate back to Graph page of selected topic
+['INFO ]2023-05-18 20:00:09,345(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks Practice Questions Page on Graph Page
+['INFO ]2023-05-18 20:00:09,376(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User should be redirected to a Practice Questions Page of selected Graph Topic Page

@@ -121,7 +121,7 @@ public void practiceQuesGraph() {
 
 			tryEditor.sendKeys(PythonCode);
 			runButton.click();
-			Thread.sleep(2000);
+		//	Thread.sleep(2000);
 			switchToAlert();
 			
 		}

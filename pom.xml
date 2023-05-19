@@ -17,6 +17,7 @@
 					  
 					<includes>
 <include>**/testRunner.java</include>
+
 </includes>  
           		<suiteXmlFiles>
 
