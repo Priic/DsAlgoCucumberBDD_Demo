@@ -184,7 +184,7 @@ public class treePage_PF {
 
 			tryEditor.sendKeys(PythonCode);
 			runButton.click();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 			switchToAlert();
 			
 		}
@@ -212,7 +212,7 @@ public class treePage_PF {
 			Actions a = new Actions(driver);
 			a.keyDown(sourceTree, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE)
 					.keyUp(Keys.DELETE).perform();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 
 		}
 

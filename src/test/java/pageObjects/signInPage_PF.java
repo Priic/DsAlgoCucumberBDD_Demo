@@ -90,7 +90,7 @@ public class signInPage_PF {
 		}
 		
 		if (!(lUsername.isBlank()) && !(lPassword.isBlank())) {
-			Thread.sleep(1000);
+			Thread.sleep(500);
 			
 			SignInPageloginbtn.click();
 		//	errorMsg=displayMessage.getText();
@@ -109,7 +109,7 @@ public class signInPage_PF {
 
 	public void LoginPageDoSignin(String username, String psw) throws InterruptedException {
 	
-		Thread.sleep(1000);
+		Thread.sleep(500);
 		//loginPageUserName.clear();
 		loginPageUserName.sendKeys(username);
 	//	loginPagePassWord.clear();

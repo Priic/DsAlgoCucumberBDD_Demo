@@ -23,7 +23,7 @@ public class startPage_PF {
 
 	// clicking on getStartedButton
 	public void getStartedClick() throws InterruptedException {
-		Thread.sleep(1000);
+		Thread.sleep(500);
 		getStartedbtn.click();
 
 	}

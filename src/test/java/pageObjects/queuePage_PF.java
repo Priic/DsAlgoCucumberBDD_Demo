@@ -137,7 +137,7 @@ public class queuePage_PF extends baseTest{
 
 		tryEditor.sendKeys(PythonCode);
 		runButton.click();
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 		switchToAlert();
 		
 	}
@@ -156,7 +156,7 @@ public class queuePage_PF extends baseTest{
 			String alertmsg=alert.getText();
 			System.out.println(alert.getText());
 			alert.dismiss();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 			return alertmsg;
 		} 
 		
@@ -165,7 +165,7 @@ public class queuePage_PF extends baseTest{
 		Actions a = new Actions(driver);
 		a.keyDown(sourceQueue, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE).keyUp(Keys.DELETE)
 				.perform();
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 
 	}
 	

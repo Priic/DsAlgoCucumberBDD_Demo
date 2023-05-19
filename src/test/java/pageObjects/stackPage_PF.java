@@ -117,7 +117,7 @@ public class stackPage_PF {
 			
 			tryEditor.sendKeys(PythonCode);
 			runButton.click();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 			String runMsg=outputStack.getText();
 			System.out.println(runMsg);
 			stackPageClearText();
@@ -129,7 +129,7 @@ public class stackPage_PF {
 
 			tryEditor.sendKeys(PythonCode);
 			runButton.click();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 			switchToAlert();
 			
 		}
@@ -155,7 +155,7 @@ public class stackPage_PF {
 			String alertmsg=alert.getText();
 			System.out.println(alert.getText());
 			alert.dismiss();
-			Thread.sleep(1000);
+			Thread.sleep(500);
 			return alertmsg;
 		} 
 
@@ -164,7 +164,7 @@ public class stackPage_PF {
 			Actions a = new Actions(driver);
 			a.keyDown(sourceStack, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE)
 					.keyUp(Keys.DELETE).perform();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 
 		}
 

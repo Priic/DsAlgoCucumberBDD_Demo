@@ -48,14 +48,14 @@ public class registerPage_PF extends baseTest {
 	public void regPageEmptyUserDetails() throws InterruptedException {
 
 		registerBtnRegisterPage.click();
-		Thread.sleep(1000);
+		Thread.sleep(500);
 	}
 
 	public void regPagePasswordBlank() throws InterruptedException {
 
 		userName.sendKeys(baseTest.randomUtilUsername());
 		registerBtnRegisterPage.click();
-		Thread.sleep(1000);
+		Thread.sleep(500);
 	}
 
 	public void regPageCnfPasswordBlank(String pswrd) throws InterruptedException {
@@ -63,7 +63,7 @@ public class registerPage_PF extends baseTest {
 		userName.sendKeys(baseTest.randomUtilUsername());
 		passWord.sendKeys(pswrd);
 		registerBtnRegisterPage.click();
-		Thread.sleep(1000);
+		Thread.sleep(500);
 	}
 
 	/*
@@ -87,7 +87,7 @@ public class registerPage_PF extends baseTest {
 		confirmPassWord.clear();
 		confirmPassWord.sendKeys(excelconfirmPs);
 		// registerBtnRegisterPage.click();
-		Thread.sleep(1000);
+		Thread.sleep(500);
 
 		if (exceluser != null || excelpasswrd != null || excelconfirmPs != null) {
 
@@ -138,7 +138,7 @@ public class registerPage_PF extends baseTest {
 			System.out.println(b);
 			if (b) {
 
-				Thread.sleep(1000);
+				Thread.sleep(500);
 				loginlink.click();
 				System.out.println("Valid Password");
 				//System.out.println(displayMessage.getText());
@@ -173,7 +173,7 @@ public class registerPage_PF extends baseTest {
 	public void clickRegBtnOnRegisterPage() throws InterruptedException {
 
 		registerBtnRegisterPage.click();
-		Thread.sleep(1000);
+		Thread.sleep(500);
 	}
 
 	public String gotoHomePage() throws InterruptedException {

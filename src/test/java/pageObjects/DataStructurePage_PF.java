@@ -80,7 +80,7 @@ public class DataStructurePage_PF {
 		RunButton.click();
 		String runMsg = outputDS.getText();
 		System.out.println(runMsg);
-		Thread.sleep(1000);
+		//Thread.sleep(1000);
 		dsPageClearText();
 		return runMsg;
 	}
@@ -106,7 +106,7 @@ public class DataStructurePage_PF {
 		String alertmsg=alert.getText();
 		System.out.println(alert.getText());
 		alert.dismiss();
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 		dsPageClearText();
 		return alertmsg;
 	}
@@ -126,7 +126,7 @@ public class DataStructurePage_PF {
 		Actions a = new Actions(driver);
 		a.keyDown(sourceDS, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE).keyUp(Keys.DELETE)
 				.perform();
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 
 	}
 

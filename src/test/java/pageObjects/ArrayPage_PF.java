@@ -142,7 +142,7 @@ public class ArrayPage_PF {
 
 		Type.sendKeys(PythonCode);
 		Run.click();
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 		switchToAlert();
 	}
 	   public String tryEditorMessage() {
@@ -159,7 +159,7 @@ public class ArrayPage_PF {
 		String alertmsg=alert.getText();
 		System.out.println(alert.getText());
 		alert.dismiss();
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 		ArrayClearText();
 		return alertmsg;
 	}
@@ -179,7 +179,7 @@ public class ArrayPage_PF {
 		Actions a = new Actions(driver);
 		a.keyDown(sourceArray, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE).keyUp(Keys.DELETE)
 				.perform();
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 
 	}
 	

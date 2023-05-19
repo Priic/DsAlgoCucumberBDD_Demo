@@ -93,7 +93,7 @@ public class HomePage_PF  {
 
 	// dropdown box option
 	public void homeClickDrpdown(String option) throws InterruptedException {
-		Thread.sleep(1000);
+		Thread.sleep(500);
 		WebElement dropoptionlist = null;
 		dropDownOptionElement.click();
 
@@ -141,18 +141,18 @@ public class HomePage_PF  {
 		System.out.println("User clicked on " + option + " GetStartedButton");
 		
 		optionlist.click();
-		Thread.sleep(1000);
+		Thread.sleep(500);
 	}
 
 	public void homeSignInLink() throws InterruptedException {
 		
-		Thread.sleep(1000);
+		Thread.sleep(500);
 		signInBtn.click();
 	}
 
 	public void homeRegisterLinkClick() throws InterruptedException {
 		
-		Thread.sleep(1000);
+		Thread.sleep(500);
 		registerBtnHomePage.click();
 	}
 
