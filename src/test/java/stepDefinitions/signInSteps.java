@@ -11,7 +11,7 @@ import pageObjects.signInPage_PF;
 //import utilities.ExcelReader;
 import utilities.Helper;
 import utilities.LoggerLoad;
-import utilities.excelReader3;
+import utilities.excelReader;
 
 public class signInSteps {
 	
@@ -56,7 +56,7 @@ public class signInSteps {
 		
 	//	Helper.LoginPage();
 		Thread.sleep(1000);
-		excelReader3 reader=new excelReader3();
+		excelReader reader=new excelReader();
 		
 		List<Map<String, String>> testdata = reader.getData("C:\\Users\\tusha\\eclipse-workspace\\DS_Algo_CucumberBDD\\src\\test\\resources\\Exceldata\\invalidSignIn.xlsx",sheetName);
 		String username = testdata.get(rowNumber).get("Username");

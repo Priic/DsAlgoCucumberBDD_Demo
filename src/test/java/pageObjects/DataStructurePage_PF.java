@@ -89,7 +89,7 @@ public class DataStructurePage_PF {
 
 		tryEditor.sendKeys(PythonCode);
 		RunButton.click();
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 		switchToAlert();
 	}
 	   public String tryEditorMessage() {
@@ -122,7 +122,7 @@ public class DataStructurePage_PF {
 
 
 	public void dsPageClearText() throws InterruptedException {
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 		Actions a = new Actions(driver);
 		a.keyDown(sourceDS, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE).keyUp(Keys.DELETE)
 				.perform();

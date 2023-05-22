@@ -125,7 +125,7 @@ public class queuePage_PF extends baseTest{
 		
 		tryEditor.sendKeys(PythonCode);
 		runButton.click();
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 		String runMsg=outputQueue.getText();
 		System.out.println(runMsg);
 		QueuePageClearText();

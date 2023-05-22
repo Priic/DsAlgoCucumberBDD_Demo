@@ -175,7 +175,7 @@ public class ArrayPage_PF {
 
 
 	public void ArrayClearText() throws InterruptedException {
-		Thread.sleep(1000);
+	//	Thread.sleep(1000);
 		Actions a = new Actions(driver);
 		a.keyDown(sourceArray, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE).keyUp(Keys.DELETE)
 				.perform();

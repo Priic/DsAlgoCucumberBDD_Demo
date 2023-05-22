@@ -173,7 +173,7 @@ public class treePage_PF {
 			
 			tryEditor.sendKeys(PythonCode);
 			runButton.click();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 			String runMsg=outputTree.getText();
 			System.out.println(runMsg);
 			treePageClearText();
@@ -202,13 +202,13 @@ public class treePage_PF {
 			String alertmsg=alert.getText();
 			System.out.println(alert.getText());
 			alert.dismiss();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 			return alertmsg;
 		}
 		
 	// clear the text field where code is written
 		public void treePageClearText() throws InterruptedException {
-			Thread.sleep(1000);
+			Thread.sleep(500);
 			Actions a = new Actions(driver);
 			a.keyDown(sourceTree, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE)
 					.keyUp(Keys.DELETE).perform();

@@ -27,7 +27,7 @@ public class takeScreenshots {
 		String screenshotfilename=currentdate.toString().replace(" ","-").replace(":", "-");
 		
 		File screenshotFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-		FileUtils.copyFile(screenshotFile, new File(System.getProperty("user.dir")+"\\src\\test\\resources\\Reports\\screenShots\\"+screenshotfilename+".png"));	
+		FileUtils.copyFile(screenshotFile, new File(System.getProperty("user.dir")+"\\src\\test\\resources\\ScreenShots\\"+screenshotfilename+".png"));	
 
 	}
 }

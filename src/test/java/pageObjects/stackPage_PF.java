@@ -160,7 +160,7 @@ public class stackPage_PF {
 		} 
 
 		public void stackPageClearText() throws InterruptedException {
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 			Actions a = new Actions(driver);
 			a.keyDown(sourceStack, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE)
 					.keyUp(Keys.DELETE).perform();

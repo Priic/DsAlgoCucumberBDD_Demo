@@ -10,7 +10,7 @@ import pageObjects.ArrayPage_PF;
 import pageObjects.HomePage_PF;
 import utilities.Helper;
 import utilities.LoggerLoad;
-import utilities.excelReader3;
+import utilities.excelReader;
 
 public class arraySteps {
 
@@ -116,7 +116,7 @@ public class arraySteps {
 			Integer RowNumber) throws InvalidFormatException, IOException, InterruptedException {
 
 		//Thread.sleep(1000);
-		excelReader3 reader = new excelReader3();
+		excelReader reader = new excelReader();
 
 		List<Map<String, String>> testdata = reader.getData(
 				"C:\\Users\\tusha\\eclipse-workspace\\DS_Algo_CucumberBDD\\src\\test\\resources\\Exceldata\\PythoncodeValidation.xlsx",

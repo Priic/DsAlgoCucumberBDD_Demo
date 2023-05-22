@@ -139,7 +139,7 @@ public String tryEditorMessage() {
 			String alertmsg=alert.getText();
 			System.out.println(alert.getText());
 			alert.dismiss();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 			return alertmsg;
 		}
 		
@@ -149,7 +149,7 @@ public String tryEditorMessage() {
 			Actions a = new Actions(driver);
 			a.keyDown(sourceGraph, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE)
 					.keyUp(Keys.DELETE).perform();
-			Thread.sleep(1000);
+		//	Thread.sleep(1000);
 
 		}
 

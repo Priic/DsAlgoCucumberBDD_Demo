@@ -12,7 +12,7 @@ import pageObjects.HomePage_PF;
 import pageObjects.registerPage_PF;
 
 //import utilities.ExcelReader;
-import utilities.excelReader3;
+import utilities.excelReader;
 import utilities.Helper;
 import utilities.LoggerLoad;
 //import utilities.takeScreenshots;
@@ -94,7 +94,7 @@ public class registerSteps {
 	public void user_enter_invalid_sign_up_details_on_register_page_from_given_sheetname_and(String sheetName, Integer rowNumber) throws InvalidFormatException, IOException, InterruptedException {
 	   
 	   
-	   excelReader3 reader=new excelReader3();
+	   excelReader reader=new excelReader();
 
 	//getting the testdata from excel and passing it to the user validation methods
 		List<Map<String, String>> testdata = reader.getData("C:\\Users\\tusha\\eclipse-workspace\\DS_Algo_CucumberBDD\\src\\test\\resources\\Exceldata\\uservalidation.xlsx", sheetName);

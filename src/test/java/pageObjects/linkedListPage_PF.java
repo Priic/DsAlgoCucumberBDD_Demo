@@ -140,7 +140,7 @@ public class linkedListPage_PF extends baseTest {
 		
 		tryEditor.sendKeys(PythonCode);
 		runButton.click();
-		Thread.sleep(100);
+	//	Thread.sleep(100);
 		String runMsg=outputLinkedList.getText();
 		System.out.println(runMsg);
 		linkedListPageClearText();
@@ -186,7 +186,7 @@ public class linkedListPage_PF extends baseTest {
 
   // clear the text field where code is written
 	public void linkedListPageClearText() throws InterruptedException {
-		Thread.sleep(1000);
+		Thread.sleep(500);
 		Actions a = new Actions(driver);
 		a.keyDown(sourceLinkedList, Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).keyDown(Keys.DELETE)
 				.keyUp(Keys.DELETE).perform();
